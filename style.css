@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    background: #F5F5F6;
+}
+img{
+    width: 89px;
+height: 23px;
+margin-left: 100px;
+margin-top: 15px;
+margin-right: 64px;
+margin-bottom: 12px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    margin-top: 17px;
+}
+li{
+    margin-left: 18px;
+    color: #959BA4;
+}
+li:first-child{
+    color: #000;
+}
+button{
+    margin-left: 109px;
+    background: #fff;
+    border: 2px solid yellow;
+    margin-top: 9px;
+    margin-bottom: 8px;
+
+}
